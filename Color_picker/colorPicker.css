@@ -1,0 +1,34 @@
+body {
+    color: white;
+    background-color: black;
+    padding-top: 100px;
+}
+
+.container {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    align-content: center;
+}
+
+
+.view {
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgb(125, 123, 241);
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 10px;
+}
+
+#colorpick {
+    width: 100%;
+}
+
+#textColor {
+    margin-top: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
